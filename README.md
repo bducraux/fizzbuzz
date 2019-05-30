@@ -1,4 +1,4 @@
-#FizzBuzz Game
+# FizzBuzz Game
 
 Players generally sit in a circle. The player designated to go first says the number "1", and each player thenceforth counts one number in turn. However, any number divisible by three is replaced by the word fizz and any divisible by five by the word buzz. Numbers divisible by both become fizz buzz. A player who hesitates or makes a mistake is eliminated from the game.
 
@@ -8,4 +8,4 @@ For example, a typical round of fizz buzz would start as follows:
 
 This is my version of the code challenge that print from 1 to 100 using the FizzBuzz rules.
 
-I made the code to me simple to add any range of numbers you want or you can get the answer for a single number. 
+I made the code to be simple to add any range of numbers you want or you can get the answer for a single number. 
