@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/made%20with-python-blue.svg" alt="made with python">
+<img src="https://img.shields.io/badge/made%20with-python-blue.svg" alt="made with python"> [![Build Status](https://travis-ci.com/bducraux/fizzbuzz.svg?branch=master)](https://travis-ci.com/bducraux/fizzbuzz)
 
 # FizzBuzz Game
 
